@@ -18,14 +18,18 @@
 
 <div align=center>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=Data_Analytics_for_Age_friendly_busan)](https://github.com/jhparkland/Data_Analytics_for_Age_friendly_busan) 
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=Data_Analytics_for_Age_friendly_busan)](https://github.com/jhparkland/Data_Analytics_for_Age_friendly_busan) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=Age_Friendly_City)](https://github.com/jhparkland/Age_Friendly_City) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAU-BigDataTeams&repo=Website)](https://github.com/DAU-BigDataTeams/Website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAU-BigDataTeams&repo=Website)](https://github.com/DAU-BigDataTeams/Website) -->
 
   </div>
+  
+  
+  
 </div>
 
 <div align=center>
+
 
 [![Jhparkland Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhparkland&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Jhparkland%20Github&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.jhpark.org&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=website&edge_flat=false)](https://hits.seeyoufarm.com)

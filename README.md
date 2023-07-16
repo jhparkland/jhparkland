@@ -12,6 +12,9 @@
     />
   <img src="https://github-readme-stats.vercel.app/api?username=jhparkland&show_icons=true" />
   </picture>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhparkland)](https://github.com/jhparkland/github-readme-stats)
+  
 </div>
 
 <p></p>
@@ -42,3 +45,5 @@
 [![BigDataTeam-website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbigdatateam.net&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BigDataTeam+website&edge_flat=false)](https://bigdatateam.net/)
 
 </div>
+
+

@@ -33,7 +33,8 @@
 [![Portfolio](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fwww.notion.so%2Fjhparkland%2Ffecb2c854a174beab7a9ea27ee1fd88d&count_bg=%23FFFF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio&edge_flat=false)](https://jhparkland.notion.site/170d66c761d044b3b550c204ba5e254f?pvs=4)
 
 
-👨‍👨‍👦‍👦**About team**👨‍👨‍👧‍👧  
+👨‍👨‍👦‍👦**About team**👨‍👨‍👧‍👧 
+
 [![DAU-BigDataTeam Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAU-BigDataTeams&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DAU-BigDataTeam&edge_flat=false)](https://github.com/DAU-BigDataTeams)
 [![BigDataTeam-website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbigdatateam.net&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BigDataTeam+website&edge_flat=false)](https://bigdatateam.net/)
 

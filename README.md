@@ -1,4 +1,4 @@
-<div align=center>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Welcome,%20JhParkLand!&amp;color=timeAuto" style="max-width: 100%;" _mstalt="15416492">  
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,7 +7,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhparkland&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
+
 
 <p></p>
 

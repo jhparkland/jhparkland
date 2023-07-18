@@ -26,19 +26,6 @@
 
 <div align=center>
 
-🔎**About me**🔍  
-
-[![Jhparkland Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhparkland&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Jhparkland%20Github&edge_flat=false)](https://github.com/jhparkland) 
-[![website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.jhpark.org&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=website&edge_flat=false)](https://jhpark.org)
-[![Portfolio](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fwww.notion.so%2Fjhparkland%2Ffecb2c854a174beab7a9ea27ee1fd88d&count_bg=%23FFFF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio&edge_flat=false)](https://jhparkland.notion.site/170d66c761d044b3b550c204ba5e254f?pvs=4)
-
-
-👨‍👨‍👦‍👦**About team**👨‍👨‍👧‍👧 
-
-[![DAU-BigDataTeam Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAU-BigDataTeams&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DAU-BigDataTeam&edge_flat=false)](https://github.com/DAU-BigDataTeams)
-[![BigDataTeam-website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbigdatateam.net&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BigDataTeam+website&edge_flat=false)](https://bigdatateam.net/)
-
-
 📕**Studying**📗  
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -49,6 +36,8 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=Neo4j&logoColor=white"/>
 
+<p></p>
+
 🛠**Tools**🛠   
 
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
@@ -58,6 +47,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/WSL2(Ubuntu)-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+<p></p>
+
+🔎**About me**🔍  
+
+[![Jhparkland Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhparkland&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Jhparkland%20Github&edge_flat=false)](https://github.com/jhparkland) 
+[![website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.jhpark.org&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=website&edge_flat=false)](https://jhpark.org)
+[![Portfolio](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fwww.notion.so%2Fjhparkland%2Ffecb2c854a174beab7a9ea27ee1fd88d&count_bg=%23FFFF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio&edge_flat=false)](https://jhparkland.notion.site/170d66c761d044b3b550c204ba5e254f?pvs=4)
+
+<p></p>
+
+👨‍👨‍👦‍👦**About team**👨‍👨‍👧‍👧 
+
+[![DAU-BigDataTeam Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAU-BigDataTeams&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DAU-BigDataTeam&edge_flat=false)](https://github.com/DAU-BigDataTeams)
+[![BigDataTeam-website](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbigdatateam.net&count_bg=%2300FF01&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BigDataTeam+website&edge_flat=false)](https://bigdatateam.net/)
 
 </div>
 

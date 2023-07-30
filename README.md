@@ -5,7 +5,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jhparkland&show_icon=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/jhparkland">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhparkland&layout=compact&langs_count=8&card_width=200&hide=html" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhparkland&layout=compact&langs_count=8&card_width=150&hide=html" />
   </a>
 
 </div>

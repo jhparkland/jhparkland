@@ -35,17 +35,6 @@
 
 <p></p>
 
-🛠**Tools**🛠   
-
-<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSL2(Ubuntu)-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-
-<p></p>
 
 🔎**About me**🔍  
 

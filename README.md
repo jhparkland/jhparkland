@@ -54,7 +54,7 @@
 -->
 
 
-# Current project in progress
+# Current project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=COCL-App&show_owner=True)](https://github.com/jhparkland/COCL-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=COCL-PM&show_owner=True)](https://github.com/jhparkland/COCL-PM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=COCL-Admin&show_owner=True)](https://github.com/jhparkland/COCL-Admin)

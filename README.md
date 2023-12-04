@@ -62,4 +62,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=COCL-Scheduling-Processes&show_owner=True)](https://github.com/jhparkland/COCL-Scheduling-Processes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=BayesCOCL&show_owner=True)](https://github.com/jhparkland/BayesCOCL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=Carbon-friendly&show_owner=True)](https://github.com/jhparkland/Carbon-friendly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhparkland&repo=learning-passage&show_owner=True)](https://github.com/jhparkland/learning-passage)
+

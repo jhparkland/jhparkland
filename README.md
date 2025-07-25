@@ -1,4 +1,4 @@
-<div align=center>
+<!-- <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Welcome,%20JHParkLand!&amp;color=timeAuto" style="max-width: 100%;" _mstalt="15416492">  
   
   <a href="https://github.com/jhparkland">
@@ -17,3 +17,4 @@
 <p></p>
 
 
+ -->
